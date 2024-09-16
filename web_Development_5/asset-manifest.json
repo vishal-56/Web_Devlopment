@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/web_Development_5/static/css/main.b1d7ec7b.css",
+    "main.js": "/web_Development_5/static/js/main.501d13c3.js",
+    "static/js/787.d4aba7ab.chunk.js": "/web_Development_5/static/js/787.d4aba7ab.chunk.js",
+    "static/media/university.jpg": "/web_Development_5/static/media/university.32b4835f6ade80b1cd49.jpg",
+    "static/media/corosol5.jpg": "/web_Development_5/static/media/corosol5.226aef5e7a26666e4bdd.jpg",
+    "static/media/corosol2.jpg": "/web_Development_5/static/media/corosol2.6d0f837208eb377f50ab.jpg",
+    "static/media/corosol1.jpg": "/web_Development_5/static/media/corosol1.1b4b0b55428f3f507aaa.jpg",
+    "static/media/Aerospace.jpg": "/web_Development_5/static/media/Aerospace.57148487917a5f893067.jpg",
+    "static/media/petrolem.jpg": "/web_Development_5/static/media/petrolem.b8608057262a96937d26.jpg",
+    "static/media/materials.jpg": "/web_Development_5/static/media/materials.e8951647b6aa94cc9bb5.jpg",
+    "static/media/Mechanical.jpg": "/web_Development_5/static/media/Mechanical.9de89242d67e67f273eb.jpg",
+    "static/media/mechatronics.jpg": "/web_Development_5/static/media/mechatronics.9a5e4f4037c66846135c.jpg",
+    "static/media/biotechnology.jpg": "/web_Development_5/static/media/biotechnology.9d39fe1285e3713f466d.jpg",
+    "static/media/civil.jpg": "/web_Development_5/static/media/civil.a19c1a43bdbe025b315b.jpg",
+    "static/media/biomedical.jpg": "/web_Development_5/static/media/biomedical.247d6affd62a70c6d018.jpg",
+    "static/media/robotics.jpg": "/web_Development_5/static/media/robotics.60b3068c6f59b1914364.jpg",
+    "static/media/Envm.jpg": "/web_Development_5/static/media/Envm.29bac69764e69f8e6364.jpg",
+    "static/media/electronics.jpg": "/web_Development_5/static/media/electronics.649703a8d904007e5c9a.jpg",
+    "static/media/chemical.jpg": "/web_Development_5/static/media/chemical.04564e4cc340b27fabe4.jpg",
+    "static/media/mining.jpg": "/web_Development_5/static/media/mining.43e8bf1aca1948a8d788.jpg",
+    "static/media/industrial.jpg": "/web_Development_5/static/media/industrial.dbc69e367a6c0dfa383b.jpg",
+    "static/media/marine.jpg": "/web_Development_5/static/media/marine.df53e1e8e0ff0a48b28a.jpg",
+    "static/media/electrical.jpg": "/web_Development_5/static/media/electrical.72eeaff95b83facec022.jpg",
+    "index.html": "/web_Development_5/index.html",
+    "main.b1d7ec7b.css.map": "/web_Development_5/static/css/main.b1d7ec7b.css.map",
+    "main.501d13c3.js.map": "/web_Development_5/static/js/main.501d13c3.js.map",
+    "787.d4aba7ab.chunk.js.map": "/web_Development_5/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d7ec7b.css",
+    "static/js/main.501d13c3.js"
+  ]
+}

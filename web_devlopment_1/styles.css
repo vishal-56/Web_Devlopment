@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+#about,
+#skills,
+#projects,
+#resume,
+#contact {
+    padding: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+
+
+/* Add this to your existing CSS file or create a new one */
+
+.profile-image {
+    width: 200px;
+    /* Set the desired width */
+    height: auto;
+    /* Maintain aspect ratio */
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px;
+    /* Adjust the font size as desired */
+}
